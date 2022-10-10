@@ -1,10 +1,18 @@
-- ðŸ‘‹ Hi, Iâ€™m @janko888
-- ðŸ‘€ Iâ€™m interested in ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ’žï¸ Iâ€™m looking to collaborate on ...
-- ðŸ“« How to reach me ...
+¼òÒªËµÃ÷£º
 
-<!---
-janko888/janko888 is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1.±¾dtb¾­¹ý²âÊÔÄ§°ÙºÍºÐ×Óm302a\m304a²¿·ÖÐÍºÅ,Ã»ÓÐÌõ¼þ²âÊÔm301a£»
+2.ÒÔÏÂ²âÊÔÒÔubuntu ÏµÍ³Jammy·¢ÐÐ°æ×îÐÂÎª»ù×¼£»ÆäËü·¢ÐÐ°æ¼°debian¸÷·¢ÐÐ°æÎ´¾­²âÊÔ£»
+3.hdmiÏÔÊ¾¹¦ÄÜÔÚÄ¿Ç°¸÷°æ±¾°²×¿¹Ì¼þºÍM30xA»úÐÍÈ·ÈÏ¹¤×÷²»Õý³£;
+4.ÄÚÖÃÓÐÏßÍø¿¨¹¦ÄÜÔÚ°²×¿4¹Ì¼þÏÂ¹¤×÷²»Õý³££»ÔÚ°²×¿9¹Ì¼þÏÂ¹¤×÷Õý³££»
+5.¹ØÓÚÐ´ÈëEmmcÄÚ´æÎÊÌâ£º
+    a)M302A²âÊÔÁËÁ½¿î´ú¹¤³§ÐÍºÅ(ÁãÅäÖÃÉ¨Ãè\ÅÆÕÕÈÚºÏ(ZN))¶¼¿ÉÐ´Èë,Õý³£Ê¹ÓÃ¡£
+    b)M304A²âÊÔÁËÒ»¿î´ú¹¤³§ÐÍºÅ(ÅÆÕÕÄÏ´«(ZN))²»¿ÉÐ´Èë,ÍÆ²âÆäÎªnandµÄÔµ¹Ê¡£
+6.ÓÐÒ»¶¨¸ÅÂÊ(Ô¼1/10×óÓÒ)ÏµÍ³ÔÚÆô¶¯\ÖØÆôÊ±¿¨ÔÚ¼ì²âemmc»·½ÚÎÞ·¨Ç°½ø¡£
+7.ÓÐÉÙÐí¸ÅÂÊÏµÍ³ÔÚÆô¶¯\ÖØÆôÊ±Íø¿¨³õÊ¼»¯Ê§°Ü£¬½¨ÒéÊ¹ÓÃ¾²Ì¬ipÅäÖÃºÍ¹Ø±Õipv6¹¦ÄÜÒÔÌá¸ßÆô¶¯³É¹¦ÂÊ¡£
+
+8.ÖØÒªÊý¾ÝÇë×ÔÐÐÁíÐÐ±¸·Ý£¡£¡£¡
+
+
+¸ÐÐ»armbianÉçÇøµÄÉñÆæ´´Òâ£¬¸øÎÒÃÇ´ò¿ªÐÂµÄÊÀ½ç£¡
+¸ÐÐ»unifreq´óÒÔ¼°ÖÚ¶àÔÚÄÚºËÊÀ½çÄ¬Ä¬Éî¸û£¬Ìá¹©Ô´Ô´²»¶ÏµÄ¶¯Á¦£¡
+¸ÐÐ»ophub´óµÄ¼á³Ö£¬Ê¹»ìÂÒÎÞÐòµÄ¾§³¿ºÐ×Ó»¹ÄÜ±£ÁôÏ£Íû£¡
