@@ -3,7 +3,7 @@
    ```yaml
   目前已识别的M401A（2+16G）版本的版本类型主要有两个不同的型号，总结出不同的型号要刷写armbian需要使用不同的方法。
   
-  下面的类型均为魔百和M401A(2+16G)版本，主板上均有“江苏m401a”字样的字样，无法简单根据省份区分版本。
+  💡Tip: 下面的类型均为魔百和M401A(2+16G)版本，主板上均有“江苏m401a”字样的字样，无法简单根据省份区分版本。
    ```
 
 ## 1.类型A TYPE—A
@@ -26,11 +26,13 @@
    ```yaml
    1.固件，使用TYPE-A类型的[m401a固件](https://github.com/janko888/MagicBox/blob/main/M401A/firmware/TYPE_A_M401A.zip)，即常见的江苏版安卓9_原厂官改_开启ROOT_线刷固件包，固件识别内存为2G;
    
-   2.使用[ophub库](https://github.com/ophub/amlogic-s9xxx-armbian/releases)的armbian,下载最新的s905l3a的镜像,dtb选择meson-g12a-s905l3a-m401a.dtb
+   2.使用[ophub库] (https://github.com/ophub/amlogic-s9xxx-armbian/releases)的armbian,下载最新的s905l3a的镜像,dtb选择meson-g12a-s905l3a-m401a.dtb
    
    3.写入emmc时使用 armbian-install （这里可以不加-m yes）,依次选择306、ext4分区;
    
    ```
+   
+   💡Tip: TYPE-A版本的M401A可以兼容大部分m401a\cm311-1a的固件，包括下面的TYPE-B版本的固件。
    
   
    
@@ -40,7 +42,7 @@
    
    ## 板子识别
    
-   ####    TYPE-Bddr4内存是CXMT;emmc标识为silicongo字样;板子的logo文字印刷在靠近USB接口处.
+   ####    TYPE-B版本，ddr4内存是CXMT;emmc标识为silicongo字样;板子的logo文字印刷在靠近USB接口处.
    ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/type_b_s.png)
    
    ## 刷写armbian方式：
