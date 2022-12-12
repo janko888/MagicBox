@@ -13,14 +13,14 @@
    ## 板子识别
    
    ####    1）TYPE-A强体质版本，ddr4内存是scy;emmc标识为sec 137字样;板子的logo文字印刷在靠近蓝牙芯片处.
-   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/type_a_s.png)
+   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/type_a_s.png?raw=true)
    
    SEC内存特写
-   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/m401a_emmc_sec.png)
+   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/m401a_emmc_sec.png?raw=true)
   
    ###     2）TYPE-A弱体质版本，总体同上面强体质版本，emmc标识为silicongo.
    SILICONGO 内存特写
-   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/m401a_emmc_silicongo.png)
+   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/m401a_emmc_silicongo.png?raw=true)
    
    ## 刷写armbian方式
    
@@ -44,7 +44,7 @@
    ## 板子识别
    
    ####    TYPE-B版本，ddr4内存是CXMT;emmc标识为silicongo字样;板子的logo文字印刷在靠近USB接口处.
-   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/type_b_s.png)
+   ![Image text](https://github.com/janko888/MagicBox/blob/main/M401A/img/type_b_s.png?raw=true)
    
    ## 刷写armbian方式：
    ```yaml
