@@ -35,6 +35,11 @@
    
    💡Tip: TYPE-A版本的M401A可以兼容大部分m401a\cm311-1a的固件，包括下面的TYPE-B版本的固件。
    
+   💡Tip: TYPE-A高体质版本可以尝试使用[最高1900MHZ的dtb](https://github.com/janko888/MagicBox/blob/main/M401A/firmware/DTB_M401A_TYPE_A1900.zip)。
+   
+   💡Tip: TYPE-A低体质版本可以尝试使用[最高1800MHZ的dtb](https://github.com/janko888/MagicBox/blob/main/M401A/firmware/DTB_M401A_TYPE_A1800.zip)。
+   
+   
   
    
    
