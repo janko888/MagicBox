@@ -54,6 +54,7 @@
    ## 刷写armbian方式：
    ```yaml
    1.固件，使用TYPE-B类型的[CM311固件](https://github.com/janko888/MagicBox/blob/main/M401A/firmware/TYPE_B_CM311-1a.zip),cm311-1a_YST安卓9-S905L3A线刷固件包，固件可以识别内存为2G;其它常用的m401a固件一般显示内存为1G，暂无发现可以驱动armbian的版本，表现为启动logo后黑屏无响应。
+    注意，根据@Cp0204 网友反馈：刷入CM311这个固件后无论短接、重置按钮、遥控器右键，都无法从U盘启动。唯一的方法是安卓系统使用ADB的 `reboot update` 命令
    
    2.使用[ophub库](https://github.com/ophub/amlogic-s9xxx-armbian/releases)的armbian,下载最新s905l3a的镜像,dtb选择meson-g12a-s905l3a-m401a.dtb
    
